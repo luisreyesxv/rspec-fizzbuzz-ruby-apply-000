@@ -7,6 +7,6 @@ def fizzbuzz(number)
     "Buzz"
   elsif number.modulo(3)==0
     "Fizz"
-  else nil      
-  end  
+  else nil
+  end
 end
